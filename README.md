@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Data Str
 - Exploring cloud and DevOps technologies.
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+- **LinkedIn:** https://www.linkedin.com/in/yuvraj-singh-gour-214424241/  
 - **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
 - **Email:** your.email@example.com  
 
