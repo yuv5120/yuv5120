@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yuvraj+Singh+Gour!;Full+Stack+Developer;Competitive+Programmer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuvraj+Singh+Gour!;Full+Stack+Developer;Competitive+Programmer" alt="Typing Animation" />
 </p>
 
 ## 🚀 About Me
@@ -32,4 +32,5 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Data Str
 
 ---
 🔥 Always learning, always building! 🚀
+
 
