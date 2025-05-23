@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvraj+Singh+Gour!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A Passionate Full-Stack Developer & Competitive Programmer from India 🚀</h3>
+<h3 align="center">A Passionate Full-Stack Developer & Competitive Programmer </h3>
 <br/>
 
 <div align="center">
   <p> Currently mastering <strong>Next.js, MongoDB, and System Design</strong></p>
-  <p>💬 Ask me about <strong>Full-Stack Development, C++, DSA, and Scalable Web Apps</strong></p>
+  <p> Ask me about <strong>Full-Stack Development, C++, DSA, and Scalable Web Apps</strong></p>
 </div>
 
 <br/>
@@ -79,15 +79,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://twitter.com/yuvrajsingh5120" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@yuv5120" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://instagram.com/yuvrajsingh5120" target="_blank">
+  <a href="https://www.instagram.com/_._yuvraaj_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
-
