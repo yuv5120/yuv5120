@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <p>🌱 Currently mastering <strong>Next.js, MongoDB, and System Design</strong></p>
+  <p> Currently mastering <strong>Next.js, MongoDB, and System Design</strong></p>
   <p>💬 Ask me about <strong>Full-Stack Development, C++, DSA, and Scalable Web Apps</strong></p>
 </div>
 
@@ -61,15 +61,12 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
+<h2 align="center">🚀 Featured Project 🚀</h2>
 <br/>
 
 <div align="center">
-  <a href="https://github.com/yuv5120/online-compiler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuv5120&repo=online-compiler&theme=react&border_color=61dafb&border_radius=10" alt="Online Compiler" />
-  </a>
-  <a href="https://github.com/yuv5120/discord-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuv5120&repo=discord-clone&theme=react&border_color=61dafb&border_radius=10" alt="Discord Clone" />
+  <a href="https://github.com/yuv5120/Verdicto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuv5120&repo=Verdicto&theme=react&border_color=61dafb&border_radius=10" alt="Verdicto Repository" />
   </a>
 </div>
 
