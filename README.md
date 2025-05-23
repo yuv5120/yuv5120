@@ -1,36 +1,96 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuvraj+Singh+Gour!;Full+Stack+Developer;Competitive+Programmer" alt="Typing Animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvraj+Singh+Gour!;" alt="Typing SVG" />
+</h1>
 
-## 🚀 About Me
-I'm a passionate **Full Stack Developer** with a strong foundation in **Data Structures and Algorithms (DSA)**. I love building scalable web applications and solving complex coding challenges.
+<h3 align="center">A Passionate Full-Stack Developer & Competitive Programmer from India 🚀</h3>
+<br/>
 
-## 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Django  
-- **Database:** MongoDB, MySQL, PostgreSQL  
-- **Other:** Git, Docker, Firebase, AWS, REST APIs  
+<div align="center">
+  <p>🌱 Currently mastering <strong>Next.js, MongoDB, and System Design</strong></p>
+  <p>💬 Ask me about <strong>Full-Stack Development, C++, DSA, and Scalable Web Apps</strong></p>
+</div>
 
-## 📚 What I'm Working On
-- Building modern web applications with the latest tech stacks.  
-- Enhancing my DSA skills through competitive programming.  
-- Exploring cloud and DevOps technologies.  
+<br/>
 
-## 🏆 Competitive Programming
-- **[CodeForces](https://codeforces.com/profile/yourhandle):** Expert (Rating: **1624**)  
-- **[CodeChef](https://www.codechef.com/users/yourhandle):** 5-Star (Rating: **2025**)  
-- **[LeetCode](https://leetcode.com/yourhandle/):** Knight (Rating: **1885**)  
+<div align="center">
+  <a href="mailto:goursinghyuvraj0512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuvraj-singh-gour-214424241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/yuv5120" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-## 📫 Connect with Me
-- **LinkedIn:** [Yuvraj Singh Gour](https://www.linkedin.com/in/yuvraj-singh-gour-214424241/)  
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)  
-- **Email:** your.email@example.com  
+<br/>
 
-## 📊 GitHub Stats
-![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuv5120&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuv5120&layout=compact&theme=radical)  
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
 
----
-🔥 Always learning, always building! 🚀
+<div align="center">
+  <a href="https://leetcode.com/yuv5120/">
+    <img src="https://leetcard.jacoblin.cool/yuv5120?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuv5120&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuv5120&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,cpp,python,ts,js" alt="Languages & Frameworks" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode,docker" alt="Tools" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Competitive Programming 🏆</h2>
+<br/>
+
+- **LeetCode:** Knight (Rating: 1982)  
+- **CodeForces:** Expert (Highest Rating: 1744)  
+- **CodeChef:** 5⭐ (Highest Rating: 2020)
+
+<br/>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/yuv5120/online-compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuv5120&repo=online-compiler&theme=react&border_color=61dafb&border_radius=10" alt="Online Compiler" />
+  </a>
+  <a href="https://github.com/yuv5120/discord-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuv5120&repo=discord-clone&theme=react&border_color=61dafb&border_radius=10" alt="Discord Clone" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+connect+and+collab!;" alt="Closing Message" />
+</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/yuvrajsingh5120" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@yuv5120" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://instagram.com/yuvrajsingh5120" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 
